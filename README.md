@@ -1,5 +1,5 @@
-# Download_Sport_Album
-Download_Sport_Album
+# Python_Download_Sport_Album
+Python_Download_Sport_Album
 
 # 瀏覽器Selenium操作放在背景執行的參數設定
 from selenium.webdriver.chrome.options import Options
